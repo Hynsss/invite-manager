@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/serendiasquad/invite-manager)](https://repl.it/github/serendiasquad/invite-manager)
 # Information
 This bot will show who invited who. It's recording and showing the total count of invitations of an user, how many of them left, etc. Do you need an invitation competition? Just for you!
 
